@@ -1,0 +1,1 @@
+This page has moved to https://chromium.googlesource.com/angle/angle/+/master/doc/ContributingCode.md
